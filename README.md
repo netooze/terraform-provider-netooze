@@ -1,6 +1,6 @@
 # Terraform Provider Netooze
 
-Run the following command to build the provider
+Run the following command to build the provider.
 
 ```shell
 go build -o terraform-provider-netooze
